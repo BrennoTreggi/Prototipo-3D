@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Prototipo 3D.sln"
+    "dotnet.defaultSolution": "Prototipo-3D.sln"
 }
